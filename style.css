@@ -7,3 +7,30 @@ body {
     background-color:gray;
     font-size: 64px ;
 }
+
+.text{
+    color:blue;
+}
+h1 {
+    background-color: green;
+  }
+  
+  div {
+    background-color: lightblue;
+  }
+  
+  p {
+    background-color: yellow;
+    opacity:60%;
+  }
+  img{
+      width: 1024px;
+
+  }
+  body {
+    background-image: url("paper.gif");
+    background-image: url("img_tree.gif"), url("paper.gif");
+  background-color: #c0c3e9;
+  background-image: conic-gradient(red, yellow, green);
+  background-position: right center;
+}
